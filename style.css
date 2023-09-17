@@ -370,7 +370,8 @@ a {
     background-color: inherit;
     text-align: center;
     cursor: pointer;
-    white-space: nowrap
+    white-space: nowrap;
+    border-radius: 10px;
 }
 
 .w3-btn:hover {
@@ -1670,7 +1671,7 @@ a {
 .w3-dark-gray,
 .w3-hover-dark-gray:hover {
     color: #fff !important;
-    background-color: #ffffff !important
+    background-color: #616161 !important
 }
 
 .w3-pale-red,
